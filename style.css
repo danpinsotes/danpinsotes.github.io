@@ -1,0 +1,39 @@
+h1 {
+    color: #fd6fc6;
+}
+body {
+    background-color: #E2B3D3; background-image: url(http://profilepicturesdp.com/wp-content/uploads/2018/06/dark-vaporwave-profile-picture-10.jpg) }
+}
+
+.container {
+    background-color: #EAD5D5
+}
+
+ul {
+    list-style: none;color: #1e7deb
+}
+.surname {
+    color:rgb(255, 192, 228);
+}
+
+
+/**** Objective****/
+#Objective h2 {
+    color: #b496ce
+}
+
+h2 {
+    color:#bf91e6
+}
+
+h3 {
+    color:#4a8af2
+}
+
+img {
+    border-radius: 80%
+}
+
+body {
+    color: rgb(255, 0, 157)
+}
